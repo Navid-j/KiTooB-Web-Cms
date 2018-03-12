@@ -1,2 +1,2 @@
 # KiTooB-web
-EBook Reader Web
+EBook Reader Web CMS
